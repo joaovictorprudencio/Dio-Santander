@@ -13,7 +13,7 @@ public static void main(String[] args) {
     Nome = DadosCliente.nextLine();
 
     
-   System.out.println("digite numero de usaurio:  ");
+   System.out.println("digite numero de Usurario:  ");
    Numero = DadosCliente.nextInt();
 
    System.out.println("qual saldo inicial:  ");
